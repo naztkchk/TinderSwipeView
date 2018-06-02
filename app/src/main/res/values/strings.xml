@@ -2,4 +2,5 @@
     <string name="app_name">TinderSwipeView</string>
     <string name="accept">accept</string>
     <string name="reject">reject</string>
+    <string name="profile">profile</string>
 </resources>
